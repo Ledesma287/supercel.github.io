@@ -173,8 +173,8 @@ footer p {
     margin: 0;
 }
 .servicios{
-    margin: 30px;
-    padding: 15px;
+    margin: 50px;
+    padding: 25px;
     background-color: white;
 }
 @media (max-width: 768px) {
